@@ -1,11 +1,13 @@
-#h1 **Файл readme**
-#h2 *5 коммитов*
+# **Файл readme**
+# *5 коммитов*
+
 - u1 first_commit
 - u2 color_changed
 - u3 new_feature_ready
 - u4 Merge commit '5cf7697dcbff04082842419f25bcd27701715b0b'
 - u5 commit_readme
-#h3 Таблица
+# Таблица
+
 | Название 1    | Название 2         |
 | ------------- |:------------------:| 
 | столбец 3     | выровнен вправо    | 
